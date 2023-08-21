@@ -1,1 +1,1 @@
-# C154-Class
+# PRO-C154-Student-Activity
